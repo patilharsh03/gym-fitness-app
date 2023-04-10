@@ -134,18 +134,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              Looking to get in shape? You're not alone! Join millions of happy members who have transformed their lives by getting fit with our gym. We have all the resources you need to achieve your fitness goals, including state-of-the-art facilities, diverse classes, and expert trainers. Become a part of our community today and start your fitness journey with us!
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              At our gym, we understand that everyone's fitness goals are unique. That's why we offer personalized training sessions that cater to your specific needs and requirements. Our experienced trainers work with you to create a workout plan that suits your fitness level and schedule, and provide you with the motivation and guidance you need to achieve your goals. Whether you're a beginner or an advanced fitness enthusiast, we have the expertise to help you succeed. Join our community today and experience the benefits of a healthy and active lifestyle.
               </p>
             </motion.div>
 

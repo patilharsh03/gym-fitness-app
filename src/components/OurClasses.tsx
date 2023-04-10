@@ -66,10 +66,7 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+            At our gym, we offer a variety of classes designed to suit every fitness level and interest. From high-intensity cardio workouts to mind-body classes like yoga and meditation, we have something for everyone. Our experienced trainers lead classes that are challenging, fun, and designed to help you achieve your fitness goals.
             </p>
           </div>
         </motion.div>
